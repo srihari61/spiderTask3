@@ -1,0 +1,1 @@
+Spider Task 3. AJAX Implementation tried. Initial home page suggestions is not made random.
